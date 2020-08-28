@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\bin\Debug\netcoreapp3.1\lab 3c math app.exe
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\bin\Debug\netcoreapp3.1\lab 3c math app.deps.json
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\bin\Debug\netcoreapp3.1\lab 3c math app.runtimeconfig.json
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\bin\Debug\netcoreapp3.1\lab 3c math app.runtimeconfig.dev.json
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\bin\Debug\netcoreapp3.1\lab 3c math app.dll
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\bin\Debug\netcoreapp3.1\lab 3c math app.pdb
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.AssemblyInfo.cs
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.dll
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.pdb
+C:\Users\user\source\repos\lab 3c math app\lab 3c math app\obj\Debug\netcoreapp3.1\lab 3c math app.genruntimeconfig.cache

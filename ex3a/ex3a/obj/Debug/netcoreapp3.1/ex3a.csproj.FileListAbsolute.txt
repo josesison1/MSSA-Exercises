@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ex3a\ex3a\bin\Debug\netcoreapp3.1\ex3a.exe
+C:\Users\user\source\repos\ex3a\ex3a\bin\Debug\netcoreapp3.1\ex3a.deps.json
+C:\Users\user\source\repos\ex3a\ex3a\bin\Debug\netcoreapp3.1\ex3a.runtimeconfig.json
+C:\Users\user\source\repos\ex3a\ex3a\bin\Debug\netcoreapp3.1\ex3a.runtimeconfig.dev.json
+C:\Users\user\source\repos\ex3a\ex3a\bin\Debug\netcoreapp3.1\ex3a.dll
+C:\Users\user\source\repos\ex3a\ex3a\bin\Debug\netcoreapp3.1\ex3a.pdb
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.AssemblyInfo.cs
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.dll
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.pdb
+C:\Users\user\source\repos\ex3a\ex3a\obj\Debug\netcoreapp3.1\ex3a.genruntimeconfig.cache

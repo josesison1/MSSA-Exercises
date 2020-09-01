@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.AssemblyInfo.cs
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\montecarlo\montecarlo\bin\Debug\netcoreapp3.1\montecarlo.exe
+C:\Users\user\source\repos\montecarlo\montecarlo\bin\Debug\netcoreapp3.1\montecarlo.deps.json
+C:\Users\user\source\repos\montecarlo\montecarlo\bin\Debug\netcoreapp3.1\montecarlo.runtimeconfig.json
+C:\Users\user\source\repos\montecarlo\montecarlo\bin\Debug\netcoreapp3.1\montecarlo.runtimeconfig.dev.json
+C:\Users\user\source\repos\montecarlo\montecarlo\bin\Debug\netcoreapp3.1\montecarlo.dll
+C:\Users\user\source\repos\montecarlo\montecarlo\bin\Debug\netcoreapp3.1\montecarlo.pdb
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.dll
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.pdb
+C:\Users\user\source\repos\montecarlo\montecarlo\obj\Debug\netcoreapp3.1\montecarlo.genruntimeconfig.cache

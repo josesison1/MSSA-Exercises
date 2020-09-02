@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.AssemblyInfo.cs
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\bin\Debug\netcoreapp3.1\ChristmasEve.exe
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\bin\Debug\netcoreapp3.1\ChristmasEve.deps.json
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\bin\Debug\netcoreapp3.1\ChristmasEve.runtimeconfig.json
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\bin\Debug\netcoreapp3.1\ChristmasEve.runtimeconfig.dev.json
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\bin\Debug\netcoreapp3.1\ChristmasEve.dll
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\bin\Debug\netcoreapp3.1\ChristmasEve.pdb
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.dll
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.pdb
+C:\Users\user\source\repos\ChristmasEve\ChristmasEve\obj\Debug\netcoreapp3.1\ChristmasEve.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.AssemblyInfo.cs
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\bin\Debug\netcoreapp3.1\ManipulatingArray.exe
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\bin\Debug\netcoreapp3.1\ManipulatingArray.deps.json
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\bin\Debug\netcoreapp3.1\ManipulatingArray.runtimeconfig.json
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\bin\Debug\netcoreapp3.1\ManipulatingArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\bin\Debug\netcoreapp3.1\ManipulatingArray.dll
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\bin\Debug\netcoreapp3.1\ManipulatingArray.pdb
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.dll
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.pdb
+C:\Users\user\source\repos\ManipulatingArray\ManipulatingArray\obj\Debug\netcoreapp3.1\ManipulatingArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\bin\Debug\netcoreapp3.1\InheritanceEX.exe
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\bin\Debug\netcoreapp3.1\InheritanceEX.deps.json
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\bin\Debug\netcoreapp3.1\InheritanceEX.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\bin\Debug\netcoreapp3.1\InheritanceEX.runtimeconfig.dev.json
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\bin\Debug\netcoreapp3.1\InheritanceEX.dll
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\bin\Debug\netcoreapp3.1\InheritanceEX.pdb
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.dll
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.pdb
+C:\Users\user\source\repos\InheritanceEX\InheritanceEX\obj\Debug\netcoreapp3.1\InheritanceEX.genruntimeconfig.cache

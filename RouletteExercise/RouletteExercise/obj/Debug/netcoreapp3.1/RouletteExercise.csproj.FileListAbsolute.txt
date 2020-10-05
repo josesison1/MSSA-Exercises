@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\bin\Debug\netcoreapp3.1\RouletteExercise.exe
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\bin\Debug\netcoreapp3.1\RouletteExercise.deps.json
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\bin\Debug\netcoreapp3.1\RouletteExercise.runtimeconfig.json
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\bin\Debug\netcoreapp3.1\RouletteExercise.runtimeconfig.dev.json
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\bin\Debug\netcoreapp3.1\RouletteExercise.dll
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\bin\Debug\netcoreapp3.1\RouletteExercise.pdb
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.AssemblyInfo.cs
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.dll
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.pdb
+C:\Users\user\source\repos\RouletteExercise\RouletteExercise\obj\Debug\netcoreapp3.1\RouletteExercise.genruntimeconfig.cache
